@@ -2,7 +2,7 @@
 
 I am an embedded software engineering student with a passion for technology and a knack for solving complex problems through code. Welcome to my GitHub profile!
 
-## 🚀 About Me
+## 🚀 About Me :
 
 - 🌱 I’m currently pursuing a degree in Embedded systems and IOT Engineering.
 - 🔭 I'm enthusiastic about embedded systems, IOT, and exploring the intersection of hardware and software.
