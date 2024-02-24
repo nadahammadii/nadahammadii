@@ -17,7 +17,7 @@ I am an embedded software engineering student with a passion for technology and 
 - **Software Development:** Version Control (Git), IDEs (Eclipse, Keil), Embedded C
 
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me :
 
 Feel free to reach out, and let's connect! You can find me on:
 
