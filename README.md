@@ -10,7 +10,7 @@ I am an embedded software engineering student with a passion for technology and 
 - 📚 I'm constantly expanding my knowledge in areas such as real-time operating systems, microcontrollers, and low-level programming.
 
 
-## 🛠️ Skills
+## 🛠️ Skills :
 
 - **Programming Languages:** C, C++, python
 - **Embedded Systems:** Microcontrollers, ARM Cortex-M, AVR
