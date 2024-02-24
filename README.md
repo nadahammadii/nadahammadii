@@ -21,7 +21,7 @@ I am an embedded software engineering student with a passion for technology and 
 
 Feel free to reach out, and let's connect! You can find me on:
 
-- [LinkedIn](https://www.linkedin.com/in/nadahammadi/)
+- [LinkedIn](https://www.linkedin.com/in/nada-hammadi-573a33253//)
 
 ## 📫 How to Reach Me
 
